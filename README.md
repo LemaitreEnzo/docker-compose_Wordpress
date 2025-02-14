@@ -16,7 +16,6 @@ Ce projet fournit une configuration pour exécuter un site WordPress en utilisan
    ```bash
    git clone https://github.com/LemaitreEnzo/docker-compose_Wordpress.git
    cd docker-compose_Wordpress
-   
 
 2. Lancez le container depuis le terminal avec la commande `docker-compose up -d`
 
